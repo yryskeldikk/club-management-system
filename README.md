@@ -1,6 +1,6 @@
-# libraryManagementSystem
+# clubManagementSystem
 
-# Library Management System
+# Club Management System
 ## Instuctions
 
 1a.txt -> 3c.txt are all test cases
